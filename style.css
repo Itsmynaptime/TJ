@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: yellow
+}
+
+.title {
+  text-align: center;
+  background-color: lime;
+   text-shadow: 2px 2px white;
+}
+
+img {margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right:50;
+  margin-left:30;   
+}
+
+h2 {
+  text-align: center
+}
+
+h4{
+  text-align: center 
+}
+
